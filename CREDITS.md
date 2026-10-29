@@ -7,7 +7,7 @@
 
 ## Imágenes
 
-Esta landing todavía no usa imágenes.
+- Una imagen aportada por el autor del sitio.
 
 ## Logos
 
